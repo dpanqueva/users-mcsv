@@ -6,7 +6,6 @@ import com.dieva.users.mcsv.domain.port.in.UserRoleRepository;
 import com.dieva.users.mcsv.infrastructure.entities.RoleEntity;
 import com.dieva.users.mcsv.infrastructure.entities.UserEntity;
 import com.dieva.users.mcsv.infrastructure.mapper.UserMapper;
-import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

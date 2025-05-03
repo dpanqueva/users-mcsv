@@ -4,7 +4,6 @@ import com.dieva.users.mcsv.domain.model.Roles;
 import com.dieva.users.mcsv.domain.model.User;
 import com.dieva.users.mcsv.domain.port.in.UserRoleRepository;
 import com.dieva.users.mcsv.domain.port.in.UserRoleService;
-import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 @Service
