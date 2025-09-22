@@ -20,4 +20,5 @@ public class User {
     private String email;
     private String passwordHash;
     private List<Roles> roles;
+    private Boolean isEnabled;
 }

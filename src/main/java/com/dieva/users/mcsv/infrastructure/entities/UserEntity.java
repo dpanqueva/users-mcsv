@@ -35,4 +35,5 @@ public class UserEntity {
     )
     private List<RoleEntity> roles;
 
+    private Boolean isEnabled;
 }
